@@ -1,7 +1,6 @@
 using System;
 using System.Runtime.InteropServices;
 using System.Text;
-using UnityEngine;
 
 namespace SkybirdGames.TextClassifier
 { 
@@ -15,8 +14,6 @@ namespace SkybirdGames.TextClassifier
         public TextClassifier(string trainingDataJsonFilepath)
         {
             this.trainingDataJsonFilepath = trainingDataJsonFilepath;
-
-            Debug.Log(trainingDataJsonFilepath);
         }
 
         public string Predict(string text, double threshold)
@@ -26,7 +23,7 @@ namespace SkybirdGames.TextClassifier
                 threshold: threshold,
                 trainingFilePath: Encoding.UTF8.GetBytes(trainingDataJsonFilepath));
 
-            return Marshal.PtrToStringAnsi(resultbytes); ;
+            return Marshal.PtrToStringAnsi(resultbytes);
         }
     }
 }

@@ -1,6 +1,6 @@
 [
     {
-        "Text": "hello",
+        "Text": "hello friend",
         "Classes": [ "greetings" ]
     },
     {
@@ -13,6 +13,10 @@
     },
     {
         "Text": "hi there",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "hi how are you",
         "Classes": [ "greetings" ]
     },
     {
@@ -56,6 +60,14 @@
         "Classes": [ "greetings" ]
     },
     {
+        "Text": "how are you doing",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "how are ya",
+        "Classes": [ "greetings" ]
+    },
+    {
         "Text": "follow",
         "Classes": [ "follow" ]
     },
@@ -72,7 +84,27 @@
         "Classes": [ "follow" ]
     },
     {
+        "Text": "stick with me",
+        "Classes": [ "follow" ]
+    },
+    {
         "Text": "come here",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "come on",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "lets go",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "lets roll",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "lets move",
         "Classes": [ "follow" ]
     },
     {
@@ -92,11 +124,15 @@
         "Classes": [ "follow" ]
     },
     {
-        "Text": "I'm going this way'",
+        "Text": "with me",
         "Classes": [ "follow" ]
     },
     {
-        "Text": "this way'",
+        "Text": "im going this way",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "this way",
         "Classes": [ "follow" ]
     },
     {
@@ -108,11 +144,11 @@
         "Classes": [ "medic" ]
     },
     {
-        "Text": "I'm hit",
+        "Text": "Im hit",
         "Classes": [ "medic" ]
     },
     {
-        "Text": "I've been shot",
+        "Text": "Ive been shot",
         "Classes": [ "medic" ]
     },
     {
@@ -120,7 +156,11 @@
         "Classes": [ "medic" ]
     },
     {
-        "Text": "I'm bleeding",
+        "Text": "Im bleeding",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "Im bleeding out",
         "Classes": [ "medic" ]
     },
     {
@@ -128,7 +168,7 @@
         "Classes": [ "medic" ]
     },
     {
-        "Text": "I'm dying",
+        "Text": "Im dying",
         "Classes": [ "medic" ]
     },
     {
@@ -140,7 +180,7 @@
         "Classes": [ "medic" ]
     },
     {
-        "Text": "I'm dying over here",
+        "Text": "Im dying over here",
         "Classes": [ "medic" ]
     },
     {
@@ -152,7 +192,7 @@
         "Classes": [ "medic" ]
     },
     {
-        "Text": "I'm hurt",
+        "Text": "Im hurt",
         "Classes": [ "medic" ]
     },
     {
@@ -160,7 +200,7 @@
         "Classes": [ "medic" ]
     },
     {
-        "Text": "I've been shot",
+        "Text": "Ive been shot",
         "Classes": [ "medic" ]
     },
     {
@@ -172,23 +212,43 @@
         "Classes": [ "suppressive_fire" ]
     },
     {
+        "Text": "Watch out for me",
+        "Classes": [ "follow", "suppressive_fire" ]
+    },
+    {
         "Text": "Watch my back",
         "Classes": [ "follow", "suppressive_fire" ]
+    },
+    {
+        "Text": "I'm going in'",
+        "Classes": [ "follow", "suppressive_fire" ]
+    },
+    {
+        "Text": "I need backup'",
+        "Classes": [ "follow", "suppressive_fire" ]
+    },
+    {
+        "Text": "I need fire'",
+        "Classes": [ "suppressive_fire" ]
+    },
+    {
+        "Text": "Cover my back",
+        "Classes": [ "suppressive_fire" ]
     },
     {
         "Text": "Protect me",
         "Classes": [ "suppressive_fire" ]
     },
     {
-        "Text": "I'm surrounded cover me",
+        "Text": "Im surrounded cover me",
         "Classes": [ "suppressive_fire" ]
     },
     {
-        "Text": "I'm going in!",
+        "Text": "Im going in!",
         "Classes": [ "suppressive_fire" ]
     },
     {
-        "Text": "I'm going in! Cover me",
+        "Text": "Im going in! Cover me",
         "Classes": [ "suppressive_fire" ]
     },
     {
@@ -204,7 +264,11 @@
         "Classes": [ "attack" ]
     },
     {
-        "Text": "Fire away'",
+        "Text": "Fire away",
+        "Classes": [ "attack" ]
+    },
+    {
+        "Text": "Fire at the enemy",
         "Classes": [ "attack" ]
     },
     {
@@ -212,23 +276,27 @@
         "Classes": [ "attack" ]
     },
     {
-        "Text": "Shoot at them'",
+        "Text": "Shoot at them",
         "Classes": [ "attack" ]
     },
     {
-        "Text": "Shoot them'",
+        "Text": "Shoot them",
         "Classes": [ "attack" ]
     },
     {
-        "Text": "Give them hell'",
+        "Text": "Give them hell",
         "Classes": [ "attack" ]
     },
     {
-        "Text": "Fire away'",
+        "Text": "Light them up",
         "Classes": [ "attack" ]
     },
     {
-        "Text": "Bang bang bang'",
+        "Text": "Fire away",
+        "Classes": [ "attack" ]
+    },
+    {
+        "Text": "Bang bang bang",
         "Classes": [ "attack" ]
     },
     {
@@ -248,19 +316,39 @@
         "Classes": [ "cover" ]
     },
     {
+        "Text": "Hide over there",
+        "Classes": [ "cover" ]
+    },
+    {
+        "Text": "Hide your self",
+        "Classes": [ "cover" ]
+    },
+    {
+        "Text": "Find cover",
+        "Classes": [ "cover" ]
+    },
+    {
+        "Text": "Shield yourself",
+        "Classes": [ "cover" ]
+    },
+    {
+        "Text": "Get behind cover",
+        "Classes": [ "cover" ]
+    },
+    {
         "Text": "Run",
         "Classes": [ "cover" ]
     },
     {
-        "Text": "Lets get out of here",
+        "Text": "Run away",
         "Classes": [ "cover" ]
     },
     {
-        "Text": "Were overwhelmed",
+        "Text": "Get to safety",
         "Classes": [ "cover" ]
     },
     {
-        "Text": "Theyre everywhere",
+        "Text": "Hide somewhere safe",
         "Classes": [ "cover" ]
     },
     {
@@ -268,7 +356,15 @@
         "Classes": [ "cover" ]
     },
     {
+        "Text": "Get down",
+        "Classes": [ "cover" ]
+    },
+    {
         "Text": "Get behind that wall",
+        "Classes": [ "cover" ]
+    },
+    {
+        "Text": "Get behind that fence",
         "Classes": [ "cover" ]
     },
     {
