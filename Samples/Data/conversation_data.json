@@ -1,0 +1,58 @@
+[
+    {
+        "Text": "hello",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "hello there",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "hi",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "hi there",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "how are you",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "how are ya",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "hey",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "hey there",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "howdy",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "howdy partner",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "sup",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "sup man",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "yo",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "yo dude",
+        "Classes": [ "greetings" ]
+    }
+]

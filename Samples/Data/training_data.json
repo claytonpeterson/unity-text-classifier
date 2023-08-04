@@ -1,0 +1,186 @@
+[
+    {
+        "Text": "hello",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "hello there",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "hi",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "hi there",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "how are you",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "how are ya",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "hey",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "hey there",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "howdy",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "howdy partner",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "sup",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "sup man",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "yo",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "yo dude",
+        "Classes": [ "greetings" ]
+    },
+    {
+        "Text": "follow",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "follow me",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "this way",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "stay behind me",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "come here",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "get over here",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "over here",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "back me",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "stay with me",
+        "Classes": [ "follow" ]
+    },
+    {
+        "Text": "medic",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "I need a medic",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "I'm hit",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "I've been shot",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "They shot me",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "I'm bleeding",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "I need a medic",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "I'm dying",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "I'm dying over here",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "Doctor",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "They got me",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "I'm hurt",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "It hurts",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "I've been shot",
+        "Classes": [ "medic" ]
+    },
+    {
+        "Text": "Cover me",
+        "Classes": [ "suppressive_fire" ]
+    },
+    {
+        "Text": "Cover me as I run",
+        "Classes": [ "suppressive_fire" ]
+    },
+    {
+        "Text": "Watch my back",
+        "Classes": [ "follow", "suppressive_fire" ]
+    },
+    {
+        "Text": "Protect me",
+        "Classes": [ "follow", "suppressive_fire" ]
+    },
+    {
+        "Text": "I'm surrounded cover me",
+        "Classes": [ "follow", "suppressive_fire" ]
+    },
+    {
+        "Text": "I'm going in!",
+        "Classes": [ "suppressive_fire" ]
+    },
+    {
+        "Text": "I'm going in! Cover me",
+        "Classes": [ "suppressive_fire" ]
+    },
+    {
+        "Text": "Suppressive fire'",
+        "Classes": [ "suppressive_fire" ]
+    },
+    {
+        "Text": "We need suppressive fire'",
+        "Classes": [ "suppressive_fire" ]
+    }
+]
