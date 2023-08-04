@@ -1,8 +1,8 @@
 {
-  "name": "com.skybirdgames.text-classifier",
+  "name": "com.skybirdgames.unity-text-classifier",
   "version": "0.1.0",
   "displayName": "Text Classifier",
-  "description": "Text Classifier allows you to run and train multiclass naive Bayesian classifiers from a json file",
+  "description": "Text Classifier allows you to run and train multiclass naive bayesian classifiers from a json file",
   "keywords": [],
   "author": {
     "name": "skybirdgames",
