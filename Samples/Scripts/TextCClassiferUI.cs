@@ -1,7 +1,6 @@
 using TMPro;
 using UnityEngine;
 using SkybirdGames.TextClassifier;
-using UnityEditor;
 
 public class TextCClassiferUI : MonoBehaviour
 {
@@ -20,9 +19,7 @@ public class TextCClassiferUI : MonoBehaviour
             return;
         }
 
-        var trainingFilePath = AssetDatabase.GetAssetPath(trainingFile);
-
-        classifier = new TextClassifier(trainingFilePath);
+        classifier = new TextClassifier(trainingFile.text);
 
         inferenceReadout.text = "";
     }
