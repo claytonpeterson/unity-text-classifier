@@ -4,14 +4,14 @@ using System.Text;
 
 namespace SkybirdGames.TextClassifier
 { 
-    public class TextClassifier
+    public class NaiveBayesTextClassifier
     {
         [DllImport("TextClassifier.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.StdCall)]
         private static extern IntPtr PredictClass(byte[] input, double threshold, byte[] trainingFilePath);
 
         private readonly string trainingDataJsonFilepath;
 
-        public TextClassifier(string trainingDataJsonFilepath)
+        public NaiveBayesTextClassifier(string trainingDataJsonFilepath)
         {
             this.trainingDataJsonFilepath = trainingDataJsonFilepath;
         }
